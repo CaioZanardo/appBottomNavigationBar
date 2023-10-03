@@ -1,2 +1,3 @@
 # appBottomNavigationBar
-Conteúdo criado nas aulas de MOBILE HÍBRIDO DEVELOPMENT
+- para navegar entre as paginas utilizado o "Menu" na parte inferior do app. 
+![PRINT!](appBar.png).
